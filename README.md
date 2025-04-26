@@ -7,6 +7,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+
 ### 📫 Contact
 - 📧 itsrezahasani@gmail.com
 - 🌐 [My LinkedIn Profile](https://www.linkedin.com/in/reza-hasani-490a862a9/)
