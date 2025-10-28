@@ -10,7 +10,7 @@
 
 ### 📫 Contact
 - 📧 itsrezahasani@gmail.com
-- 🌐 [My LinkedIn Profile](https://www.linkedin.com/in/reza-hasani-490a862a9/)
+- 🌐 [My LinkedIn Profile](https://www.linkedin.com/in/reza-hasaniii)
 
 ---
 ### About Me
